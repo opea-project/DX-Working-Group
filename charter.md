@@ -29,9 +29,9 @@ Membership is open to all individuals, both early career and senior, who are pas
 
 ## 3. Meetings 
 
-The DXWG will meet bi-weekly via Zoom to discuss ongoing initiatives, review progress, and plan upcoming activities. Ad-hoc meetings may be scheduled as needed to address urgent issues or opportunities.
+The DXWG will meet bi-weekly, via Zoom, to discuss ongoing initiatives, review progress, and plan upcoming activities. Ad-hoc meetings may be scheduled as needed to address urgent issues or opportunities.
 
-Meeting minutes and action items will be documented and shared with all members via Slack to ensure transparency and accountability.
+Meeting minutes and action items will be documented and shared with all members in a running document and shared on the LF OPEA/DX-Working-Group repository and mailing lists to ensure transparency and accountability.
 
 ## 4. Compliance with Policies
 
